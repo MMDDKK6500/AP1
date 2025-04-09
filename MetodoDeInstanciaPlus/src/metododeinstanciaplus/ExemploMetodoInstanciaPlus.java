@@ -9,7 +9,7 @@ public class ExemploMetodoInstanciaPlus {
     
     public static void main(String[] args) {
             
-        ExemploMetodoInstanciaPlus obj = new ExemploMetodoInstanciaPlus();
+        Calculos obj = new Calculos();
         
         String op = getOp();
         

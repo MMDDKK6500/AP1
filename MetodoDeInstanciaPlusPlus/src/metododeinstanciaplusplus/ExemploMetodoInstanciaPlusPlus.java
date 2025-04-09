@@ -12,7 +12,7 @@ public class ExemploMetodoInstanciaPlusPlus {
     public static void main(String[] args) {
         
         String op;
-        ExemploMetodoInstanciaPlusPlus obj = new ExemploMetodoInstanciaPlusPlus();
+        Calculos obj = new Calculos();
         
         while (true) {
             op = getOp();
